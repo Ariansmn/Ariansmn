@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ariansmn
-- 👀 I’m interested in AI and machine learning and coding
+- 👀 I’m interested in AI and machine learning and programming 
 - 🌱 I’m currently learning machine learning and python
 - 🍕 my favorite food is pizza 
 
